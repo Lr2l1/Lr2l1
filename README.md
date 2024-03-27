@@ -12,7 +12,7 @@
 </a>
 
 <br><br>
-<div align="center"> ##:mailbox:이메일
+<div align="center"> :mailbox:이메일
 <div align="center"> hoit5it@naver.com
  <br><br> 
 <div align="center">:school:학교
