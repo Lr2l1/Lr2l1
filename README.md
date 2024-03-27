@@ -14,4 +14,4 @@
 
 
 
-###<div align="center">:school:
+<div align="center">:school:학교
