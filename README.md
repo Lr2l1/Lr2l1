@@ -22,3 +22,4 @@
 <div align="center"> 한국 일본
 <br><br>
 <div align="center">:computer:교육과정수료
+<div align="center">의료영상 AI AIP연동 프로젝트기반 자바 풀스택 개발자과정 수료중
