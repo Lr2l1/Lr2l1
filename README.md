@@ -13,11 +13,12 @@
 
 <br><br>
 <div align="center"> :mailbox:이메일
- hoit5it@naver.com
+<div align="center"> hoit5it@naver.com
+ <br><br> 
 <div align="center">:school:학교
 <div align="center">서울여자대학교 경영학과 졸업
 <br><br>
 <div align="center">:ok_woman:언어
-<br><br> <div align="center"> 한국어 일본어
+<div align="center"> 한국어 일본어
 <br><br>
 <div align="center">:computer:참여프로젝트
