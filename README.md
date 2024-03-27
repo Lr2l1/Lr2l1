@@ -18,7 +18,7 @@
 <div align="center">:school:학교
 <div align="center">서울여자대학교 경영학과 졸업
 <br><br>
-<div align="center">:ok_woman:언어
-<div align="center"> 한국어 일본어
+<div align="center">:ok_woman:취업희망
+<div align="center"> 한국 일본
 <br><br>
 <div align="center">:computer:교육과정수료
