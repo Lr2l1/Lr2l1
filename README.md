@@ -12,4 +12,4 @@
 </a>
 
 
-:school:
+<div align="center">:school:
