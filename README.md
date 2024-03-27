@@ -12,7 +12,7 @@
 </a>
 
 <br><br>
-<div align="center"> :mailbox:이메일
+<div align="center"> ##:mailbox:이메일
 <div align="center"> hoit5it@naver.com
  <br><br> 
 <div align="center">:school:학교
@@ -21,4 +21,4 @@
 <div align="center">:ok_woman:언어
 <div align="center"> 한국어 일본어
 <br><br>
-<div align="center">:computer:참여프로젝트
+<div align="center">:computer:교육과정수료
