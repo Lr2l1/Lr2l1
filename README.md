@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000&height=100&section=header&text=Lr2l1&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=Lr2l1&fontSize=50)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lr2l1&layout=compact)
