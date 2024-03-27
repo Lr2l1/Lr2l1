@@ -11,7 +11,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lr2l1&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-
-
-
+<br><br>
 <div align="center">:school:학교
+<div align="center">서울여자대학교 경영학과 졸업
